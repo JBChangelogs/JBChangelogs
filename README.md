@@ -15,7 +15,7 @@ We're passionate about keeping the Roblox Jailbreak community informed and up-to
 
 - **Website**: [jailbreakchangelogs.xyz](https://jailbreakchangelogs.xyz)
 - **Discord**: [Join our community](https://discord.com/invite/5D4XsghS)
-- **X (Formerly Twitter)**:  [@JBChangelogs)](https://x.com/JBChangelogs)
+- **X (Formerly Twitter)**:  [@JBChangelogs](https://x.com/JBChangelogs)
 - **GitHub**: You're here! Star us for updates.
 
 ## 🤝 Contribute
