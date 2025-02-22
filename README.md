@@ -13,8 +13,8 @@ We're passionate about keeping the Roblox Jailbreak community informed and up-to
 
 ## 🔗 Connect With Us
 
-- **Website**: [jailbreakchangelogs.xyz](https://jailbreakchangelogs.xyz)
-- **Discord**: [Join our community](https://discord.com/invite/5D4XsghS)
+- **Website**: [jailbreakchangelogs.xyz](https://www.jailbreakchangelogs.xyz/)
+- **Discord**: [Join our community](https://discord.com/invite/kAuxDntHG9)
 - **X (Formerly Twitter)**: [@JBChangelogs](https://x.com/JBChangelogs)
 - **BlueSky**:  [@jbchangelogs.bsky.social](https://bsky.app/profile/jbchangelogs.bsky.social)
 - **GitHub**: You're here! Star us for updates.
