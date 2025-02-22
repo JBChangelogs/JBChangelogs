@@ -15,11 +15,12 @@ We're passionate about keeping the Roblox Jailbreak community informed and up-to
 
 - **Website**: [jailbreakchangelogs.xyz](https://jailbreakchangelogs.xyz)
 - **Discord**: [Join our community](https://discord.com/invite/5D4XsghS)
-- **X (Formerly Twitter)**:  [@JBChangelogs](https://x.com/JBChangelogs)
+- **X (Formerly Twitter)**: [@JBChangelogs](https://x.com/JBChangelogs)
+- **BlueSky**:  [@jbchangelogs.bsky.social](https://bsky.app/profile/jbchangelogs.bsky.social)
 - **GitHub**: You're here! Star us for updates.
 
 ## 🤝 Contribute
 
-Love Jailbreak and want to help? We're always looking for contributors to help make our resource even better. Reach out on Discord or open an issue here on GitHub!
+Love Jailbreak and want to help? We're always looking for contributors to help make our resource even better. Reach out on [Discord](https://discord.gg/kAuxDntHG9) or check out [CONTRIBUTING.md]((https://github.com/JBChangelogs/JailbreakChangelogs/blob/main/CONTRIBUTING.md) to get started!
 
 ---
