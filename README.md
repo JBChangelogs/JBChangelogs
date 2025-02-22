@@ -21,6 +21,6 @@ We're passionate about keeping the Roblox Jailbreak community informed and up-to
 
 ## 🤝 Contribute
 
-Love Jailbreak and want to help? We're always looking for contributors to help make our resource even better. Reach out on [Discord](https://discord.gg/kAuxDntHG9) or check out [CONTRIBUTING.md]((https://github.com/JBChangelogs/JailbreakChangelogs/blob/main/CONTRIBUTING.md) to get started!
+Love Jailbreak and want to help? We're always looking for contributors to help make our resource even better. Reach out on [Discord](https://discord.gg/kAuxDntHG9) or check out [CONTRIBUTING.md](https://github.com/JBChangelogs/JailbreakChangelogs/blob/main/CONTRIBUTING.md) to get started!
 
 ---
