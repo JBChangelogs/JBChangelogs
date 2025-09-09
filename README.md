@@ -2,7 +2,7 @@
 
 ## 🚓 About Us
 
-We're passionate about keeping the Roblox Jailbreak community informed and up-to-date. JBChangelogs is a collaborative project by [Jalenzz16](https://github.com/Jalenzzz) and [Jakobiis](https://github.com/v3kmmw/), dedicated to tracking and presenting Jailbreak's evolution over time.
+We're passionate about keeping the Roblox Jailbreak community informed and up-to-date. JBChangelogs is a collaborative project by [Jalenzz16](https://github.com/Jalenzzz) and [Jakobiis](https://github.com/Jakobiis/), dedicated to tracking and presenting Jailbreak's evolution over time.
 
 ## 🌟 Why JBChangelogs?
 
